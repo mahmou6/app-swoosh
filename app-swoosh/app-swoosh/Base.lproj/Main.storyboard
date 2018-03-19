@@ -188,7 +188,7 @@
                                 <rect key="frame" x="10" y="40" width="29" height="24"/>
                                 <state key="normal" image="backButton"/>
                                 <connections>
-                                    <segue destination="xmC-eo-X3T" kind="unwind" unwindAction="unwindFromSkillVCWithUnwindsegue:" id="WxB-m9-bdz"/>
+                                    <segue destination="xmC-eo-X3T" kind="unwind" unwindAction="unwindFromSkillVCWithUnwindsegue:" id="d2e-8H-TPK"/>
                                 </connections>
                             </button>
                         </subviews>
